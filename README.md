@@ -1,6 +1,6 @@
 # Manga App
 
-This project is a Python-based application for searching, retrieving, and downloading manga from a specified server. The application uses various classes and methods to interact with the server's API and manage manga data.
+This project is a Python-based application for searching, retrieving, and downloading manga from a specified server. Although there is no interface as of right now, it is planned somewhere in the next 500000000000 years
 
 ## Features
 
@@ -9,6 +9,7 @@ This project is a Python-based application for searching, retrieving, and downlo
 - **Get Manga Chapter**: Retrieve information about a specific chapter of a manga.
 - **Download Manga**: Download manga chapters.
 - **Cache Management**: Manage and clear the cache for downloaded images.
+- **Sorting search**: Search all manga by state, popularity, category, genre, etc.
 
 ## Installation
 
@@ -88,4 +89,4 @@ This project is licensed under the MIT License.
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 ## Acknowledgements
-Thanks to this: [Manga Hook][https://github.com/kiraaziz/mangahook-api/tree/main] Project wouldn't be possible without it 🙏
+Thanks to this: https://github.com/kiraaziz/mangahook-api/tree/main Project wouldn't be possible without it 🙏
